@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computer Science at Harbin Institute of Technology,
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fuqiang.png
   image_circular: false
   more_info: >
     <p>Shenzhen, China</p>
