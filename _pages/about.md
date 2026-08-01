@@ -27,7 +27,7 @@ latest_posts:
 
 I am a Ph.D. candidate in Computer Science and Technology at the
 School of Computer Science and Technology, Harbin Institute of Technology,
-Shenzhen, supervised by Prof. Yongbing Zhang and Prof. Hongpeng Wang.
+Shenzhen, supervised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=zh-CN&oi=ao) and Prof. Hongpeng Wang.
 
 My research focuses on **computational pathology** and **virtual staining**.
 More recently, I have been exploring **continual learning for large language
@@ -51,13 +51,14 @@ Engineering from Chongqing University.
 
 **Harbin Institute of Technology, Shenzhen**  
 Ph.D. Candidate in Computer Science and Technology, 2025–Present  
-Supervisors: Prof. Yongbing Zhang and Prof. Hongpeng Wang
+Supervisors: [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=zh-CN&oi=ao) and Prof. Hongpeng Wang
 
 **University of Chinese Academy of Sciences / Shenzhen Institute of Advanced Technology**  
 M.Eng. in Computer Technology, 2022–2025  
 State Key Laboratory of Biomedical Imaging Science and System  
-Supervisor: Prof. Wenjian Qin
+Supervisor: [Prof. Wenjian Qin](https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=zh-CN&oi=ao)
 
 **Chongqing University**  
 B.Eng. in Electronic Information Engineering, 2018–2022  
 Excellent Engineer Program, School of Microelectronics and Communication Engineering
+Supervisor: [Prof. Hailin Cao](https://scholar.google.com/citations?user=Bs_kKY8AAAAJ&hl=zh-CN&oi=ao)
