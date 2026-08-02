@@ -33,11 +33,7 @@ My research focuses on **computational pathology** and **virtual staining**.
 More recently, I have been exploring **continual learning for large language
 models** and **continual learning for autonomous agents**.
 
-Before beginning my doctoral studies, I received my master's degree in
-Computer Technology from the Shenzhen Institute of Advanced Technology,
-University of Chinese Academy of Sciences, where I was supervised by
-Prof. Wenjian Qin. I received my bachelor's degree in Electronic Information
-Engineering from Chongqing University.
+Before beginning my doctoral studies, I received my master's degree in Computer Technology from the University of Chinese Academy of Sciences, where I conducted research at the Shenzhen Institute of Advanced Technology and the State Key Laboratory of Biomedical Imaging Science and System under the supervision of Prof. Wenjian Qin. I received my bachelor's degree in Electronic Information Engineering through the Excellence Engineer Program at Chongqing University, where I worked with Prof. Hailin Cao.
 
 ## Research Interests
 
