@@ -60,7 +60,5 @@ Supervisor: [Prof. Wenjian Qin](https://scholar.google.com/citations?user=QulpzU
 
 **Chongqing University**  
 B.Eng. in Electronic Information Engineering, 2018–2022  
-Excellent Engineer Program, School of Microelectronics and Communication Engineering
+Excellent Engineer Program, School of Microelectronics and Communication Engineering  
 Supervisor: [Prof. Hailin Cao](https://scholar.google.com/citations?user=Bs_kKY8AAAAJ&hl=zh-CN&oi=ao)
-
-
