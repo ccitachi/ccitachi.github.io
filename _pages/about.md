@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science at Harbin Institute of Technology, Shenzhen
+subtitle: Ph.D. Student in Computer Science at Harbin Institute of Technology, Shenzhen
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. candidate in Computer Science and Technology at the
+I am a Ph.D. student in Computer Science and Technology at the
 School of Computer Science and Technology, Harbin Institute of Technology,
 Shenzhen, supervised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=zh-CN&oi=ao) and Prof. Hongpeng Wang.
 
@@ -50,7 +50,7 @@ Engineering from Chongqing University.
 ## Education
 
 **Harbin Institute of Technology, Shenzhen**  
-Ph.D. Candidate in Computer Science and Technology, 2025–Present  
+Ph.D. Student in Computer Science and Technology, 2025–Present  
 Supervisors: [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=zh-CN&oi=ao) and Prof. Hongpeng Wang
 
 **University of Chinese Academy of Sciences / Shenzhen Institute of Advanced Technology**  
